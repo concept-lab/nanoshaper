@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+45df3bf3dbf1f714b28aab97ed9e7877 src/nanoshaperPYTHON_wrap.cxx

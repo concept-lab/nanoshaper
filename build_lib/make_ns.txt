@@ -1,0 +1,18 @@
+Scanning dependencies of target DelphiSurface
+[  6%] Building CXX object CMakeFiles/DelphiSurface.dir/src/sturm/sturm.cpp.o
+[ 13%] Building CXX object CMakeFiles/DelphiSurface.dir/src/sturm/util.cpp.o
+[ 20%] Building CXX object CMakeFiles/DelphiSurface.dir/src/BlobbySurface.cpp.o
+[ 26%] Building CXX object CMakeFiles/DelphiSurface.dir/src/ConnollySurface.cpp.o
+[ 33%] Building CXX object CMakeFiles/DelphiSurface.dir/src/DelphiShared.cpp.o
+[ 40%] Building CXX object CMakeFiles/DelphiSurface.dir/src/ExampleSurface.cpp.o
+[ 46%] Building CXX object CMakeFiles/DelphiSurface.dir/src/ExternalSurface.cpp.o
+[ 53%] Building CXX object CMakeFiles/DelphiSurface.dir/src/main.cpp.o
+[ 60%] Building CXX object CMakeFiles/DelphiSurface.dir/src/MeshSurface.cpp.o
+[ 66%] Building CXX object CMakeFiles/DelphiSurface.dir/src/SkinSurface.cpp.o
+[ 73%] Building CXX object CMakeFiles/DelphiSurface.dir/src/Surface.cpp.o
+[ 80%] Building CXX object CMakeFiles/DelphiSurface.dir/src/SurfaceFactory.cpp.o
+[ 86%] Building CXX object CMakeFiles/DelphiSurface.dir/src/tools.cpp.o
+[ 93%] Building CXX object CMakeFiles/DelphiSurface.dir/src/ply/ply.cpp.o
+[100%] Building CXX object CMakeFiles/DelphiSurface.dir/src/ConfigFile/ConfigFile.cpp.o
+Linking CXX shared library libDelphiSurface.so
+[100%] Built target DelphiSurface

@@ -1,0 +1,1 @@
+/mnt/c/Users/pedro/Downloads/NanoShaper0.7/build_lib/CMakeFiles/DelphiSurface.dir

@@ -1,0 +1,1 @@
+/mnt/c/Users/pedro/Downloads/NanoShaper0.8/build_python/CMakeFiles/_NanoShaper.dir

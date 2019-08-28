@@ -1,0 +1,20 @@
+[  5%] Swig source
+Scanning dependencies of target _NanoShaper
+[ 11%] Building CXX object CMakeFiles/_NanoShaper.dir/src/nanoshaperPYTHON_wrap.cxx.o
+[ 17%] Building CXX object CMakeFiles/_NanoShaper.dir/src/BlobbySurface.cpp.o
+[ 23%] Building CXX object CMakeFiles/_NanoShaper.dir/src/ConnollySurface.cpp.o
+[ 29%] Building CXX object CMakeFiles/_NanoShaper.dir/src/DelphiShared.cpp.o
+[ 35%] Building CXX object CMakeFiles/_NanoShaper.dir/src/ExampleSurface.cpp.o
+[ 41%] Building CXX object CMakeFiles/_NanoShaper.dir/src/ExternalSurface.cpp.o
+[ 47%] Building CXX object CMakeFiles/_NanoShaper.dir/src/main.cpp.o
+[ 52%] Building CXX object CMakeFiles/_NanoShaper.dir/src/MeshSurface.cpp.o
+[ 58%] Building CXX object CMakeFiles/_NanoShaper.dir/src/SkinSurface.cpp.o
+[ 64%] Building CXX object CMakeFiles/_NanoShaper.dir/src/Surface.cpp.o
+[ 70%] Building CXX object CMakeFiles/_NanoShaper.dir/src/SurfaceFactory.cpp.o
+[ 76%] Building CXX object CMakeFiles/_NanoShaper.dir/src/tools.cpp.o
+[ 82%] Building CXX object CMakeFiles/_NanoShaper.dir/src/ply/ply.cpp.o
+[ 88%] Building CXX object CMakeFiles/_NanoShaper.dir/src/ConfigFile/ConfigFile.cpp.o
+[ 94%] Building CXX object CMakeFiles/_NanoShaper.dir/src/sturm/sturm.cpp.o
+[100%] Building CXX object CMakeFiles/_NanoShaper.dir/src/sturm/util.cpp.o
+Linking CXX shared module _NanoShaper.so
+[100%] Built target _NanoShaper
