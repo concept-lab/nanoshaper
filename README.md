@@ -1,5 +1,5 @@
 
-NanoShaper readme
+NanoShaper Surface Builder Readme
 =================
 
 NanoShaper is GPL licensed software please read the attached license.txt file.
